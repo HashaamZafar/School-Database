@@ -1,7 +1,7 @@
-package com.sohilladhani.loginapp.admin.controllers;
+package com.loginapp.admin.controllers;
 
-import com.sohilladhani.loginapp.student.entities.Student;
-import com.sohilladhani.loginapp.student.models.StudentModel;
+import com.loginapp.student.entities.Student;
+import com.loginapp.student.models.StudentModel;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;

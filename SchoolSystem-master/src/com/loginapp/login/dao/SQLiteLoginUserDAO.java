@@ -1,6 +1,6 @@
-package com.sohilladhani.loginapp.login.dao;
+package com.loginapp.login.dao;
 
-import com.sohilladhani.loginapp.login.entities.LoginUser;
+import com.loginapp.login.entities.LoginUser;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.sqlite.SQLiteDataSource;

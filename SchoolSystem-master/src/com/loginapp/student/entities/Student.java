@@ -1,4 +1,4 @@
-package com.sohilladhani.loginapp.student.entities;
+package com.loginapp.student.entities;
 
 public class Student {
     private int id;

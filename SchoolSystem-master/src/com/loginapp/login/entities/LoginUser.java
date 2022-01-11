@@ -1,4 +1,4 @@
-package com.sohilladhani.loginapp.login.entities;
+package com.loginapp.login.entities;
 
 public class LoginUser {
     private String userName;

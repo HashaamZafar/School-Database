@@ -1,9 +1,9 @@
-package com.sohilladhani.loginapp;
+package com.loginapp;
 
-import com.sohilladhani.loginapp.login.controllers.LoginController;
-import com.sohilladhani.loginapp.login.dao.LoginUserDAO;
-import com.sohilladhani.loginapp.login.dao.SQLiteLoginUserDAO;
-import com.sohilladhani.loginapp.login.models.LoginModel;
+import com.loginapp.login.controllers.LoginController;
+import com.loginapp.login.dao.LoginUserDAO;
+import com.loginapp.login.dao.SQLiteLoginUserDAO;
+import com.loginapp.login.models.LoginModel;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -26,7 +26,7 @@ public class LoginApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         FXMLLoader fxmlLoader = new FXMLLoader();
-        fxmlLoader.setLocation(getClass().getResource("/com/sohilladhani/loginapp/login/ui/loginapp.fxml"));
+        fxmlLoader.setLocation(getClass().getResource("/com/loginapp/login/ui/loginapp.fxml"));
         fxmlLoader.setControllerFactory(t -> buildLoginController(stage));
         Scene scene = new Scene(fxmlLoader.load());
         stage.setScene(scene);

@@ -1,7 +1,7 @@
-package com.sohilladhani.loginapp.student.models;
+package com.loginapp.student.models;
 
-import com.sohilladhani.loginapp.student.dao.StudentDAO;
-import com.sohilladhani.loginapp.student.entities.Student;
+import com.loginapp.student.dao.StudentDAO;
+import com.loginapp.student.entities.Student;
 
 import java.util.List;
 

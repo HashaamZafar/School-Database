@@ -1,7 +1,7 @@
-package com.sohilladhani.loginapp.login.models;
+package com.loginapp.login.models;
 
-import com.sohilladhani.loginapp.login.dao.LoginUserDAO;
-import com.sohilladhani.loginapp.login.entities.LoginUser;
+import com.loginapp.login.dao.LoginUserDAO;
+import com.loginapp.login.entities.LoginUser;
 
 import java.util.List;
 

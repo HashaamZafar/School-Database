@@ -1,6 +1,6 @@
-package com.sohilladhani.loginapp.student.dao;
+package com.loginapp.student.dao;
 
-import com.sohilladhani.loginapp.student.entities.Student;
+import com.loginapp.student.entities.Student;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;

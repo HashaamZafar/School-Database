@@ -1,7 +1,7 @@
-package com.sohilladhani.loginapp.login.dao;
+package com.loginapp.login.dao;
 
-import com.sohilladhani.loginapp.util.dao.DAO;
-import com.sohilladhani.loginapp.login.entities.LoginUser;
+import com.loginapp.util.dao.DAO;
+import com.loginapp.login.entities.LoginUser;
 
 import java.util.List;
 

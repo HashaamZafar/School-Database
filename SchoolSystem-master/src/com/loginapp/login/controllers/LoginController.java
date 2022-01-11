@@ -1,11 +1,11 @@
-package com.sohilladhani.loginapp.login.controllers;
+package com.loginapp.login.controllers;
 
-import com.sohilladhani.loginapp.admin.controllers.AdminController;
-import com.sohilladhani.loginapp.login.entities.option;
-import com.sohilladhani.loginapp.login.models.LoginModel;
-import com.sohilladhani.loginapp.student.dao.SQLiteStudentDAO;
-import com.sohilladhani.loginapp.student.dao.StudentDAO;
-import com.sohilladhani.loginapp.student.models.StudentModel;
+import com.loginapp.admin.controllers.AdminController;
+import com.loginapp.login.entities.option;
+import com.loginapp.login.models.LoginModel;
+import com.loginapp.student.dao.SQLiteStudentDAO;
+import com.loginapp.student.dao.StudentDAO;
+import com.loginapp.student.models.StudentModel;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

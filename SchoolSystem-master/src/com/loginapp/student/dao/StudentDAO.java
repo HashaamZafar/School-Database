@@ -1,7 +1,7 @@
-package com.sohilladhani.loginapp.student.dao;
+package com.loginapp.student.dao;
 
-import com.sohilladhani.loginapp.student.entities.Student;
-import com.sohilladhani.loginapp.util.dao.DAO;
+import com.loginapp.student.entities.Student;
+import com.loginapp.util.dao.DAO;
 
 import java.util.List;
 

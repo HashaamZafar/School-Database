@@ -1,4 +1,4 @@
-package com.sohilladhani.loginapp.util.dao;
+package com.loginapp.util.dao;
 
 public interface DAO {
     void setup() throws Exception;
