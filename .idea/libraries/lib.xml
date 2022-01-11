@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SchoolSystem-master/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SchoolSystem-master/lib/sqlite-jdbc-3.25.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
